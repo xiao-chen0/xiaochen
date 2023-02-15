@@ -1,2 +1,0 @@
-# xiaochen
-Git使用
